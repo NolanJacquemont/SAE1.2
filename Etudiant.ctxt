@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Etudiant
+comment0.text=\r\n\ Type\ Etudiant\r\n\r\n\ @author\ Christopher\r\n
+comment1.params=pfNom\ pfPrenom\ pfGroupe
+comment1.target=Etudiant(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment1.text=\ Constructeur\ du\ type\ Etudiant\r\n\ \r\n\ @param\ pfNom\ IN\ \:\ Nom\ de\ l'\u00E9tudiant\r\n\ @param\ pfPrenom\ IN\ \:\ Pr\u00E9nom\ de\ l'\u00E9tudiant\r\n\ @param\ pfGroupe\ IN\:\ Groupe\ de\ l'\u00E9tudiant\r\n\ \r\n
+numComments=2

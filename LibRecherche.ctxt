@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=LibRecherche
+comment0.text=\r\n\ Classe\ des\ algorithmes\ de\ recherche\r\n\ \r\n\ @author\ Nolan\r\n
+comment1.params=pfEtu1\ pfEtu2
+comment1.target=boolean\ egal(Etudiant,\ Etudiant)
+comment1.text=\r\n\ Compare\ si\ 2\ \u00E9tudiants\ sont\ les\ m\u00EAmes\r\n\ \r\n\ @param\ pfEtu1\ IN\ \:\ premier\ \u00E9tudiant\ \u00E0\ comparer\r\n\ @param\ pfEtu2\ IN\ \:\ deuxi\u00E8me\ \u00E9tudiant\ \u00E0\ comparer\r\n
+comment2.params=pfEtu1\ pfEtu2
+comment2.target=boolean\ estPlusGrandQue(Etudiant,\ Etudiant)
+comment2.text=\r\n\ Compare\ si\ un\ \u00E9tudiant\ est\ class\u00E9\ avant\ ou\ apr\u00E8s\ un\ autre\r\n\ \r\n\ @param\ pfEtu1\ IN\ \:\ premier\ \u00E9tudiant\ \u00E0\ comparer\r\n\ @param\ pfEtu2\ IN\ \:\ deuxi\u00E8me\ \u00E9tudiant\ \u00E0\ comparer\r\n
+comment3.params=pfTNP\ pfEtudiant
+comment3.target=Resultat\ testSansRupture(TNP,\ Etudiant)
+comment3.text=\r\n\ Algorithme\ de\ recherche\ sans\ rupture\r\n\ \r\n\ @param\ pfTNP\ IN\ \:\ liste\ des\ \u00E9tudiants\r\n\ @param\ pfEtudiant\ IN\ \:\ \u00E9tudiant\ \u00E0\ chercher\r\n
+comment4.params=pfTNP\ pfEtudiant
+comment4.target=Resultat\ testAvecRupture(TNP,\ Etudiant)
+comment4.text=\r\n\ Algorithme\ de\ recherche\ avec\ rupture\r\n\ \r\n\ @param\ pfTNP\ IN\ \:\ liste\ des\ \u00E9tudiants\r\n\ @param\ pfEtudiant\ IN\ \:\ \u00E9tudiant\ \u00E0\ chercher\r\n
+comment5.params=pfTNP\ pfEtudiant
+comment5.target=Resultat\ testDichotomique(TNP,\ Etudiant)
+comment5.text=\r\n\ Algorithme\ de\ recherche\ avec\ rupture\r\n\ \r\n\ @param\ pfTNP\ IN\ \:\ liste\ des\ \u00E9tudiants\r\n\ @param\ pfEtudiant\ IN\ \:\ \u00E9tudiant\ \u00E0\ chercher\r\n
+numComments=6

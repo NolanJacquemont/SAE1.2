@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=ListeEtudiants
+comment0.text=\r\n\ Classe\ principale\ \:\ chargement\ des\ \u00E9tudiants\ \u00E0\ partir\ d'un\ CSV,\ tri\ des\ \u00E9tudiants,\ test\ des\ fonctions\ de\ recherche\r\n\ \r\n\ @author\ Enzo\ (jeu\ de\ donn\u00E9es),\ Christopher\ (adaptation\ pour\ type\ Etudiant)\r\n
+comment1.params=pfListe
+comment1.target=int\ nbEtudiant(java.lang.String[][])
+comment1.text=\ Donne\ le\ nombre\ d\u2019\u00E9tudiants\ de\ la\ liste\ pfListe\r\n\ \ @param\ pfListe\ IN\ \:\ tableau\ contenant\ la\ liste\ d'\u00E9tudiants\ nom,\ prenom\r\n\ \ @return\ le\ nombre\ d\u2019\u00E9tudiants\ de\ la\ liste\r\n
+comment2.params=pfFileName\ pfDelimiter
+comment2.target=java.lang.String[][]\ getListe(java.lang.String,\ java.lang.String)
+comment2.text=\ Charge\ dans\ un\ tableau\ la\ liste\ des\ \u00E9tudiants\r\n\ \ @param\ pfFileName\ IN\ \:\ le\ nom\ du\ fichier\ \u00E0\ lire\r\n\ \ @param\ pfDelimiter\ IN\ \:\ le\ d\u00E9limiteur\ de\ champs\ dans\ le\ fichier\ csv\r\n\ \ @return\ le\ tableau\r\n
+comment3.params=pfListeEtudiants
+comment3.target=TNP\ creerTNPEtud(java.lang.String[][])
+comment3.text=\r\n\ Cr\u00E9e\ un\ tableau\ contenant\ tous\ les\ \u00E9tudiants\ \u00E0\ partir\ d'un\ tableau\ \u00E0\ double\ entr\u00E9e\r\n\ \r\n\ @param\ pfListeEtudiants\ IN\ \:\ tableau\ \u00E0\ double\ entr\u00E9e\ des\ \u00E9tudiants\r\n
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+comment5.params=pfTNP
+comment5.target=void\ testAlgoSansRupture(TNP)
+comment5.text=\r\n\ Test\ de\ l'algorithme\ de\ recherche\ sans\ rupture\r\n\ \r\n\ @param\ pfTNP\ IN\ \:\ liste\ des\ \u00E9tudiants\r\n
+comment6.params=pfTNP
+comment6.target=void\ testAlgoAvecRupture(TNP)
+comment6.text=\r\n\ Test\ de\ l'algorithme\ de\ recherche\ avec\ rupture\r\n\ \r\n\ @param\ pfTNP\ IN\ \:\ liste\ des\ \u00E9tudiants\r\n
+comment7.params=pfTNP
+comment7.target=void\ testAlgoDichotomie(TNP)
+comment7.text=\r\n\ Test\ de\ l'algorithme\ de\ recherche\ par\ dichotomie\r\n\ \r\n\ @param\ pfTNP\ IN\ \:\ liste\ des\ \u00E9tudiants\r\n
+numComments=8

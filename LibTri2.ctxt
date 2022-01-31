@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=LibTri2
+comment0.text=\r\n\ Classe\ des\ algorithmes\ de\ tri\r\n\r\n\ @author\ Enzo\ (tri),\ Christopher\ (adaptation\ pour\ type\ Etudiant)\r\n
+comment1.params=pfTNP
+comment1.target=void\ afficherTNP(TNP)
+comment1.text=\ affiche\ un\ TNP\r\n\ @param\ pfTNP\ IN\ \:\ la\ liste\ des\ \u00E9l\u00E9ments\r\n
+comment2.params=pfTNP
+comment2.target=void\ triSimple(TNP)
+comment2.text=\ tri\ dans\ l'ordre\ croissant\r\n\ @param\ pfTNP\ IN/OUT\ \:\ la\ liste\ des\ \u00E9l\u00E9ments\r\n
+numComments=3
